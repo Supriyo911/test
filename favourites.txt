@@ -1,3 +1,10 @@
+Foods List:
 1. Blueberry Cheesecake
 2. Fish Fry
 3. Nasi Goreng
+
+Movies List:
+1. TITANIC
+2. Intersteller
+3. Prometheus
+
