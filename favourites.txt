@@ -20,3 +20,8 @@ Places List:
 2. Gujarat
 3. Maharashtra
 
+Trains List:
+1. Vande Bharat Express
+2. Rajdhani Express
+3. Duronto Express
+
