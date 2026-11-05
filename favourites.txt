@@ -25,3 +25,8 @@ Trains List:
 2. Rajdhani Express
 3. Duronto Express
 
+Restaurant List:
+1. Kafulok
+2. The Wall
+3. Krystal Chopstix
+
