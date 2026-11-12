@@ -1,0 +1,5 @@
+1. Agentic AI Basics
+Python Advanced
+SQL Advanced
+LLM and Machine Learning basics
+Project Management Advanced
